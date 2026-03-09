@@ -15,9 +15,9 @@ Step 1 – Install XAMPP
 
 4. Install to default path
 
-
+```text
 C:\xampp
-
+```
 
 5. Finish installation.
 
@@ -27,7 +27,7 @@ C:\xampp
 
 1. Open **XAMPP Control Panel**.
 
-<img src="XAMPP_Installation.jpg" width="1000">
+<img src="XAMPP_Installation.jpg" width="800">
 ![XAMPP Installation](XAMPP_Installation.jpg)
 
 
@@ -64,8 +64,9 @@ Download the **latest ZIP file**.
 
 4. Paste inside:
 
+```text
 C:\xampp\htdocs\
-
+```
 
 5. Rename the folder
 
