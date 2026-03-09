@@ -1,24 +1,31 @@
-Printer Troubleshooting
+**Printer Troubleshooting**
 
-Problem
+**Problem**
 Printer not detected by system.
 
-Step 1
+
+**Step 1**
 Check USB or network connection.
 
-Step 2
+
+**Step 2**
 Restart Print Spooler service.
 
-Steps
+
+**Steps**
 Open Services
 Locate Print Spooler
 Restart service.
 
-Step 3
+
+**Step 3**
 Check Device Manager for driver errors.
 
-Step 4
+
+**Step 4**
 Reinstall printer driver.
 
-Resolution
+
+
+**Resolution**
 Printer detected after driver reinstall.

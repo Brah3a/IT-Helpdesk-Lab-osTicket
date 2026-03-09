@@ -16,7 +16,7 @@ Step 1 – Install XAMPP
 4. Install to default path
 
 ```text
-C:\xampp
+    C:\xampp
 ```
 
 5. Finish installation.
@@ -27,15 +27,13 @@ C:\xampp
 
 1. Open **XAMPP Control Panel**.
 
-<img src="XAMPP_Installation.jpg" width="800">
-![XAMPP Installation](XAMPP_Installation.jpg)
+<img src="XAMPP_Installation.jpg" width="600">
 
 
 2. Start services
 
-
-Apache
-MySQL
+    Apache <br>
+    MySQL
 
 
 3. Confirm they turn **green** (running).
@@ -65,21 +63,22 @@ Download the **latest ZIP file**.
 4. Paste inside:
 
 ```text
-C:\xampp\htdocs\
+    C:\xampp\htdocs\
 ```
 
 5. Rename the folder
 
-
-upload → osticket
-
+```text
+    upload → osticket
+```
 
 Final path:
 
+```text
+    C:\xampp\htdocs\osticket
+```
 
-C:\xampp\htdocs\osticket
-
-![](osTicket_configure.png)
+![](osTicket.png)
 
 
 ---
@@ -88,20 +87,20 @@ C:\xampp\htdocs\osticket
 
 Navigate to:
 
-
-C:\xampp\htdocs\osticket\include
-
+```text
+    C:\xampp\htdocs\osticket\include
+```
 
 Find file:
 
 
-ost-sampleconfig.php
+    ost-sampleconfig.php
 
 
 Rename it to:
 
 
-ost-config.php
+    ost-config.php
 
 ![](rename_file.png)
 
