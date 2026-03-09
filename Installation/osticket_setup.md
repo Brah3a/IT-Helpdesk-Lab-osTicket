@@ -27,7 +27,9 @@ C:\xampp
 
 1. Open **XAMPP Control Panel**.
 
+<img src="XAMPP_Installation.jpg" width="1000">
 ![XAMPP Installation](XAMPP_Installation.jpg)
+
 
 2. Start services
 
