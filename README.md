@@ -17,7 +17,22 @@ Project Structure
 Installation – setup instructions  
 Tickets – simulated helpdesk issues  
 Troubleshooting – diagnostic steps  
-Screenshots – dashboard and ticket images
+
+## Documentation
+
+- [Installation Guide](Installation/osticket_setup.md)
+
+## Tickets
+
+- [Printer Issue](Tickets/printer_issue.md)
+- [Internet Issue](Tickets/internet_issue.md)
+
+## Troubleshooting
+
+- [Printer Troubleshooting](Troubleshooting/windoprinter_troubleshooting.md)
+- [Network Troubleshooting](Troubleshooting/network_troubleshooting.md)
+
+
 
 
 
