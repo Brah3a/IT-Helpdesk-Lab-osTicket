@@ -1,0 +1,23 @@
+# IT Helpdesk Ticketing Lab using osTicket
+
+This project demonstrates how to simulate a real IT support helpdesk using osTicket.
+
+Tools Used
+- osTicket
+- XAMPP
+- MySQL
+- Windows 10
+
+Project Goals
+- Learn helpdesk ticket workflow
+- Practice troubleshooting IT issues
+- Document solutions like real IT support teams
+
+Project Structure
+Installation – setup instructions  
+Tickets – simulated helpdesk issues  
+Troubleshooting – diagnostic steps  
+Screenshots – dashboard and ticket images
+
+
+
