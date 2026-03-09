@@ -1,13 +1,13 @@
-Issue
+**Issue** <br>
 User cannot access internet.
 
-Symptoms
+**Symptoms** <br>
 Browser shows no connection.
 
-Troubleshooting
-1 Run ipconfig /release
-2 Run ipconfig /renew
-3 Restart router
+**Troubleshooting**<br>
+1 Run ipconfig /release <br>
+2 Run ipconfig /renew  <br>
+3 Restart router  <br>
 
-Resolution
+**Resolution**
 DHCP address refreshed and internet restored.

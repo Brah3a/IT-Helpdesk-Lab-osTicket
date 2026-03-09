@@ -27,8 +27,6 @@ Step 1 – Install XAMPP
 
 1. Open **XAMPP Control Panel**.
 
-<img src="XAMPP_Installation.jpg" width="600">
-
 
 2. Start services
 

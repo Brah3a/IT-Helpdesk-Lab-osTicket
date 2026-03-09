@@ -1,13 +1,13 @@
-Issue
+**Issue** <br>
 Printer not detected on user system.
 
-Symptoms
+**Symptoms** <br>
 Printer not visible in Devices and Printers.
 
-Troubleshooting
-1 Check USB cable connection
-2 Restart Print Spooler service
-3 Reinstall printer driver
+**Troubleshooting** <br>
+1 Check USB cable connection  <br>
+2 Restart Print Spooler service  <br>
+3 Reinstall printer driver <br>
 
-Resolution
+**Resolution** <br>
 Printer driver reinstalled successfully.

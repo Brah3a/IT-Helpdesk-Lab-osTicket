@@ -12,7 +12,7 @@ Verify IP configuration.
 Command
 
 ```bash
-ipconfig
+    ipconfig
 ```
 
 
@@ -22,8 +22,8 @@ Renew IP address.
 Commands
 
 ```bash
-ipconfig /release
-ipconfig /renew 
+    ipconfig /release
+    ipconfig /renew 
 ```
 
 **Step 4**
@@ -32,7 +32,7 @@ Test connectivity.
 Command
 
 ```bash
-ping google.com
+    ping google.com
 ```
 
 **Step 5**
@@ -41,7 +41,7 @@ Check DNS resolution.
 Command
 
 ```bash
-nslookup google.com
+    nslookup google.com
 ```
 
 **Resolution**

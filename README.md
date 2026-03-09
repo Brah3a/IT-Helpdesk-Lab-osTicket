@@ -29,7 +29,7 @@ Troubleshooting – diagnostic steps
 
 ## Troubleshooting
 
-- [Printer Troubleshooting](Troubleshooting/windoprinter_troubleshooting.md)
+- [Printer Troubleshooting](Troubleshooting/printer_troubleshooting.md)
 - [Network Troubleshooting](Troubleshooting/network_troubleshooting.md)
 
 
